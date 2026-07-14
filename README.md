@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🚀 SmartLoop
 
-<!--
-**smartloop01/SmartLoop01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformamos processos manuais em automações inteligentes.
 
-Here are some ideas to get you started:
+## 💡 Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A SmartLoop é uma empresa de tecnologia especializada em:
+
+- Automação de Processos (RPA)
+- CRM Corporativo
+- Chatbots com Inteligência Artificial
+- Desenvolvimento Web e Mobile
+- Dashboards e BI
+- Integrações de Sistemas
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Flet](https://img.shields.io/badge/Flet-0D47A1?style=for-the-badge)
+
+## 📂 Projetos
+
+### SmartLoop CRM
+Sistema completo para gestão de clientes e vendas.
+
+### SmartLoop RPA
+Automação de tarefas repetitivas e integração entre sistemas.
+
+### SmartLoop AI
+Chatbot inteligente para WhatsApp e atendimento automatizado.
+
+## 📞 Contato
+
+📧 contato@smartloop.com.br
+
+🌐 Site em desenvolvimento
+
+💼 Soluções inteligentes para empresas modernas.
