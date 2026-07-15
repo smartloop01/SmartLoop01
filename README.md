@@ -1,4 +1,4 @@
-# 🚀 SmartLoop
+# 🚀 SmartLuup
 
 Transformamos processos manuais em automações inteligentes.
 
@@ -22,18 +22,18 @@ A SmartLoop é uma empresa de tecnologia especializada em:
 
 ## 📂 Projetos
 
-### SmartLoop CRM
+### SmartLuup CRM
 Sistema completo para gestão de clientes e vendas.
 
-### SmartLoop RPA
+### SmartLuup RPA
 Automação de tarefas repetitivas e integração entre sistemas.
 
-### SmartLoop AI
+### SmartLuup AI
 Chatbot inteligente para WhatsApp e atendimento automatizado.
 
 ## 📞 Contato
 
-📧 contato@smartloop.com.br
+📧 contato@smartluup.com.br
 
 🌐 Site em desenvolvimento
 
