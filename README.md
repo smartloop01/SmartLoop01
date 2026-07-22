@@ -22,6 +22,8 @@ A SmartLoop é uma empresa de tecnologia especializada em:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-0085FF?style=for-the-badge&logo=flutter&logoColor=white)
+[Power BI](https://powerbi.microsoft.com/)
+
 
 ## 📂 Projetos
 
